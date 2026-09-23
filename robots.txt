@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://houchengtech.com/sitemap.xml
